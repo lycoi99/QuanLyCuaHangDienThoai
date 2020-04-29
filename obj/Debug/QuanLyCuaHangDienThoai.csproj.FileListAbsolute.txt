@@ -1,0 +1,75 @@
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csprojAssemblyReference.cache
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmNhanHieu.resources
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.frmMain.resources
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Properties.Resources.resources
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csproj.GenerateResource.cache
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csproj.CoreCompileInputs.cache
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\bin\Database\CuaHang.mdf
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\bin\Database\CuaHang_log.ldf
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.exe.config
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.exe
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.pdb
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.exe
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.pdb
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmLoai.resources
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmManHinh.resources
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmNhaCungCap.resources
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmSanPham.resources
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmHDB.resources
+D:\CSLT2\QuanLyCuaHangDienThoai\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmHDN.resources
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\bin\Debug\bin\Database\CuaHang.mdf
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\bin\Debug\bin\Database\CuaHang_log.ldf
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.exe.config
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.exe
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.pdb
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csprojAssemblyReference.cache
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmHDB.resources
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmHDN.resources
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmLoai.resources
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmManHinh.resources
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmNhaCungCap.resources
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmNhanHieu.resources
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmSanPham.resources
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.frmMain.resources
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Properties.Resources.resources
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csproj.GenerateResource.cache
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.exe
+C:\Users\OooO\Desktop\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.pdb
+D:\Thuctap\QuanLyCuaHangDienThoai\bin\Debug\bin\Database\CuaHang.mdf
+D:\Thuctap\QuanLyCuaHangDienThoai\bin\Debug\bin\Database\CuaHang_log.ldf
+D:\Thuctap\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.exe.config
+D:\Thuctap\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.exe
+D:\Thuctap\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.pdb
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csprojAssemblyReference.cache
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmHDB.resources
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmHDN.resources
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmLoai.resources
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmManHinh.resources
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmNhaCungCap.resources
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmNhanHieu.resources
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmSanPham.resources
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.frmMain.resources
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Properties.Resources.resources
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csproj.GenerateResource.cache
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csproj.CoreCompileInputs.cache
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.exe
+D:\Thuctap\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.pdb
+D:\Lập trình 2\QuanLyCuaHangDienThoai\bin\Debug\bin\Database\CuaHang.mdf
+D:\Lập trình 2\QuanLyCuaHangDienThoai\bin\Debug\bin\Database\CuaHang_log.ldf
+D:\Lập trình 2\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.exe.config
+D:\Lập trình 2\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.exe
+D:\Lập trình 2\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.pdb
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csprojAssemblyReference.cache
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmHDB.resources
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmHDN.resources
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmLoai.resources
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmManHinh.resources
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmNhaCungCap.resources
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmNhanHieu.resources
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Forms.frmSanPham.resources
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.frmMain.resources
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.Properties.Resources.resources
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csproj.GenerateResource.cache
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.csproj.CoreCompileInputs.cache
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.exe
+D:\Lập trình 2\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.pdb
